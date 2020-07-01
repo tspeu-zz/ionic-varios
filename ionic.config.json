@@ -1,0 +1,7 @@
+{
+  "name": "app-images",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
